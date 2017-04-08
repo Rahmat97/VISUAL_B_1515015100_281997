@@ -84,8 +84,6 @@ public int reg=0,exp=0, Berat;
         jLabel12.setFont(new java.awt.Font("Times New Roman", 0, 18)); // NOI18N
         jLabel12.setText("Jasa Pengiriman Barang");
 
-        jLabel13.setIcon(new javax.swing.ImageIcon("C:\\Users\\RAHMAT\\Downloads\\box_no_printing.png")); // NOI18N
-
         javax.swing.GroupLayout jPanel6Layout = new javax.swing.GroupLayout(jPanel6);
         jPanel6.setLayout(jPanel6Layout);
         jPanel6Layout.setHorizontalGroup(
